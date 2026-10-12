@@ -1,0 +1,5 @@
+print("My name is Sejal Naik.")
+print("I am BSC(cs) graduate.")
+print("I am a Python programmer.")
+print("I graduate from sppu university.")
+print("I like coding and to develope new things.")
